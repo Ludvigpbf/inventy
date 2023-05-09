@@ -45,6 +45,10 @@ To run the project locally, follow these steps:
 
 **Ludvig Flyckt**
 
+## Contributing
+
+If you would like to contribute to this project, please send me an email with your thoughts.
+
 ## Contact
 
 If you have any questions or concerns, please contact ludvig.flyckt@gmail.com or https://github.com/Ludvigpbf/.
